@@ -1,6 +1,6 @@
 # Notezz-Hub
 <p>
-  <img src="https://github.com/pavan-005/Notezz-Hub/blob/main/src/main/resources/static/assets/img/logo.png" width="350" alt="logo.png">
+  <img src="https://github.com/pavan-005/Notezz-Hub/blob/main/src/main/resources/static/assets/img/logo.png" width="150" alt="logo.png">
   <img src="https://github.com/pavan-005/Notezz-Hub/blob/main/src/main/resources/static/assets/img/logo.png" width="350" alt="logo.png">
 </p>
 
