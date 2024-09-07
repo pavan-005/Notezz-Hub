@@ -6,6 +6,7 @@
 Notezz-Hub is a web application for creating and managing your personal notes.
 
 <h5>Tech Used:</h5>
+<ul>
 <li>The main project language is Java. The project includes such Java frameworks and libraries: Spring Data, Spring MVC, Spring Boot, Lombok, AspectJ. Also, the project uses Thymeleaf.</li>
 <li>
 The project builds on the MVC pattern. But it also contains other patterns, such as Strategy, etc.
@@ -22,4 +23,5 @@ The project uses Apache Tomcat.
 <li>
 The frontend is built using html, css and for some features bootstrap4 and jQuery.
 </li>
+</ul>
 
